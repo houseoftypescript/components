@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch to match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe hGtDRL"
+  >
+    <div
+      class="sc-gswNZR fgUEz"
+    />
+  </div>
+</div>
+`;
