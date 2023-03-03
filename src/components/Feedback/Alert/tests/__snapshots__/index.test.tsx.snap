@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Alert to match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe ldKrVE"
+    type="info"
+  >
+    <div
+      class="sc-gswNZR jzfOSL"
+    >
+      Title
+    </div>
+    <div
+      class="sc-dkrFOg"
+    >
+      Description
+    </div>
+  </div>
+</div>
+`;

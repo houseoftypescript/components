@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "UI Components",
   "main": "dist/index.js",
-  "repository": "git@github.com:houseofmystery/components.git",
+  "repository": "git@github.com:houseoftypescript/components.git",
   "author": "hieudoanm <hieumdoan@gmail.com>",
   "license": "MIT",
   "private": true,
